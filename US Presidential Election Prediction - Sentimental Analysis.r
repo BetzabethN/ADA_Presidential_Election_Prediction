@@ -1,4 +1,4 @@
-# NARVAEZ BETZABETH 20181016117 - 고급데이터분석 U.S. Presidential Analysis
+# NARVAEZ BETZABETH - 고급데이터분석 U.S. Presidential Analysis
 # Libraries --------------------
 library(dplyr)
 library(tidyr)
