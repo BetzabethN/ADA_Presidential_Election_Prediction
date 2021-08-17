@@ -1,4 +1,4 @@
-# ADA_Presidential_Election_Prediction
+# ADA Presidential Election Prediction
 This project was completed in the 2020 2nd semester for the Advanced Data Analysis class.
 
 The question I tried to answer was: Which candidate will win the 2020 presidential election?
